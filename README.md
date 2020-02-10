@@ -1,1 +1,1 @@
-General Assembly Memory Game Application
+General Assembly Memory Game displaying the use of HTML, CSS, and JavaScript
