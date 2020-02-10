@@ -1,1 +1,1 @@
-test read me
+General Assembly Memory Game Application
